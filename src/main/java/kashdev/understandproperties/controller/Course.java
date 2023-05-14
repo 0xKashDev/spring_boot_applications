@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package kashdev.understandproperties.controller;
 
 public class Course {
 
